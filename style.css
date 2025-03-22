@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #F1F0E9;
+}
+
+header {
+    background: #387478;
+    color: white;
+    padding: 20px;
+    text-align:center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.gambar {
+    float: left;
+    width: 20%;
+    border-radius: 50%;
+    border-style:groove;
+    border-color: black;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.profil {
+    padding-left: 200px;
+    padding-top: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    color: white;
+}
+
+td {
+    background-color: white;
+}
+
+.hobi {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+section {
+    background-color: #629584;
+    width: 100%;
+    color: #000000;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.dua h2 {
+    text-align: center;
+    color: #000000;
+    font-size: xx-large;
+}
+
+ul {
+    display: inline-block;
+    font-size: larger;
+    line-height: 2;
+}
+
+.dua li {
+    padding-left: 20px;
+    font-size: large;
+}
+
+.dua {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #629584;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.c {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.c h2 {
+    color: black;
+    font-size: xx-large;
+}
+
+.c img {
+    float: initial;
+    width: 5%;
+    overflow: auto;
+}
+
+footer {
+    text-align: center;
+    background-color: #387478;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+}
